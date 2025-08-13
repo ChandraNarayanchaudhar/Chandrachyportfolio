@@ -28,7 +28,7 @@ Google Analytics
 
 Customize quickly
 -----------------
-- Replace images in /assets (project1.png, project2.png, project3.png, profile.svg, favicon.png, cover.png).
+- Replace images in /assets (project1.jpg, project2.jpg, project3.png, profile.JPG, favicon.png, cover.png).
 - Update phone, email, and links.
 - Add more cards by duplicating the <article class="card"> block.
 
